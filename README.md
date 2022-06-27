@@ -1,7 +1,7 @@
 # Horiseon-Refactor
 
 ## Project Description
-Landing page for SEO Horiseon.  
+Austin's work portfolio.  
 
 ## Technologies
 HTML and CSS
@@ -16,8 +16,7 @@ To view your changes, you can render the `index.html` file located at ``Develop/
  https://austinmetcalf.github.io/Horiseon-Refactor/
 ## Credit
 
-https://austinmetcalf.github.io/Horiseon-Refactor/Develop/index.html
-(https://user-images.githubusercontent.com/107006987/174219924-20fc8c7d-e1f6-4045-8e69-9cccbb205383.png)
+
 
 
 
