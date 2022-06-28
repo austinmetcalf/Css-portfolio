@@ -7,7 +7,7 @@ Images are linked to websites I did not create, but used only with intent to dem
 ## Technologies
 HTML and CSS
 
-## Landing page example image
+## Example image
 
 ![screencapture-127-0-0-1-5501-index-html-2022-06-27-22_23_00](https://user-images.githubusercontent.com/107006987/176093552-ba10f4b8-480e-4856-854d-37a604b55a43.png)
 
